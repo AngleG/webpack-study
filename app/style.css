@@ -1,0 +1,8 @@
+
+body{
+    background: #eee;
+}
+body,html{
+    font-family: '微软雅黑', arial;
+}
+h2{ color: orange;}
