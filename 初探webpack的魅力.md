@@ -18,7 +18,7 @@ $ npm install webpack -g
 将依赖写入package.json包
 ```
 npm init
-npm inatall webpack --save-dev
+npm install webpack --save-dev
 ```
 注：
 - `npm init` 相关的问题可以根据自己的要求填写，之后还可以进行修改，所以不用担心填错的问题。这里会初始化一个package.json文件，该文件用来配置当前包。
